@@ -1,0 +1,1 @@
+This is the SplitTheCheck Application folder.
